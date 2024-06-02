@@ -1,6 +1,5 @@
 // Plugins
 // Tasks
-import "./tasks";
 import "@nomicfoundation/hardhat-toolbox";
 import {config as dotenvConfig} from "dotenv";
 import "fhenix-hardhat-docker";
